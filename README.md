@@ -1,8 +1,8 @@
-# [your app name here]
+# CampusConnect
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Joshua Holguin
 
 🔗 Link to deployed app:
 
@@ -10,11 +10,11 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+CampusConnect is a web and mobile app designed to help college students stay connected to campus events, study groups, and resources. It simplifies event discovery, allows students to RSVP and receive reminders, and provides an interactive map of upcoming events across campus. The purpose of the app is to improve student engagement and help users find academic and social opportunities easily.
 
 ### Inspiration
 
-[text goes here]
+I was inspired by how easy it is to miss out on events, study sessions, or workshops simply because information is scattered across multiple platforms. My goal was to create one centralized app where students can find everything happening on campus in one place — like a digital community hub for student life.
 
 ## Tech Stack
 
@@ -24,25 +24,27 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### User Authentication: 
+Allow users to sign up, log in, and create a personalized profile.
 
-[short description goes here]
+### Event Feed: 
+Display upcoming campus events with filters for category (social, academic, volunteer).
 
-[gif goes here]
+### RSVP & Reminder System: 
+Let users mark interest in events and receive notifications.
 
-### [Name of Feature 2]
+### Interactive Map: 
+Show event locations with pins and walking directions.
 
-[short description goes here]
+### Create Event (Organizer Role): 
+Organizers can add, edit, or delete their events.
 
-[gif goes here]
+### Community Discussion Board (Custom Feature): 
+Students can discuss and comment on events or topics.
 
-### [Name of Feature 3]
+### Event Recommendations (Custom Feature): 
+Suggest events based on user interests and past attendance.
 
-[short description goes here]
-
-[gif goes here]
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
 
